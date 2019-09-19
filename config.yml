@@ -10,21 +10,21 @@ hosts:
     host: 10.0.17.75
     database: postgres
     user: postgres
-    password: Ctx200ppz
+    password: pass
   ERC_DB_M2:
     host: 10.0.17.76
     database: postgres
     user: postgres
-    password: Ctx200ppz
+    password: pass
   ERC_DB_M3:
     host: 10.0.17.77
     database: postgres
     user: postgres
-    password: Ctx200ppz
+    password: pass
   ERC_DB_M4:
     host: 10.0.17.78
     database: postgres
     user: postgres
-    password: Ctx200ppz
+    password: pass
 
 
